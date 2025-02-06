@@ -1,4 +1,4 @@
-module github.com/lukeroth/gdal
+module github.com/magothy/gdal-go
 
 go 1.15
 
